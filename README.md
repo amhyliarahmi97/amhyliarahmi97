@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Amy 👋</h1>
+<p align="center">
+  <em>Information Systems Student | Aspiring Data Analyst | Lifelong Learner</em>
+</p>
 
-<!--
-**amhyliarahmi97/amhyliarahmi97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧾 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently studying **Information Systems** at Universitas Terbuka  
+- 💡 Passionate about **Data Science**, **Machine Learning**, and **Web Development**  
+- 💻 Enjoys working on real-world projects to grow my skills  
+- 🌏 Based in Indonesia, always open to remote collaboration  
+- 🎯 Currently exploring **freelance opportunities** on platforms like Upwork  
+
+---
+
+### 🛠️ Tech Stack
+
+- **Languages**: Python, JavaScript, SQL  
+- **Tools**: Jupyter Notebook, Google Colab, Git, VS Code  
+- **Libraries**: Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib, Seaborn  
+- **Other**: GitHub, Kaggle, Figma, Canva  
+
+---
+
+### 📊 My Recent Projects
+
+- 🧠 **Sentiment Analysis** – YouTube comment classification using machine learning  
+- 🖼️ **Image Classification** – The Simpsons character classifier with CNN  
+- 💹 **Bitcoin Price Prediction** – Predictive analytics with regression models  
+- 🤝 **Recommendation System** – Final project for IDCamp 2024
+
+Check them all out in my repositories! 📁
+
+---
+
+### 📫 Get in Touch
+
+- 💌 Email: amhyliarahmi97@gmail.com  
+- 🌐 LinkedIn: [Amy on LinkedIn](https://www.linkedin.com/in/your-link-here) *(ganti dengan link-mu ya)*  
+- 🧰 Portfolio: [Coming soon!]*  
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amhyliarahmi97&show_icons=true&theme=radical" alt="Amy's GitHub Stats" />
+</p>
