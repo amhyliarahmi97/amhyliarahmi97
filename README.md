@@ -38,8 +38,7 @@ Check them all out in my repositories! 📁
 ### 📫 Get in Touch
 
 - 💌 Email: amhyliarahmi97@gmail.com  
-- 🌐 LinkedIn: [Amy on LinkedIn](https://www.linkedin.com/in/your-link-here) *(ganti dengan link-mu ya)*  
-- 🧰 Portfolio: [Coming soon!]*  
+- 🌐 LinkedIn: (https://www.linkedin.com/in/amhyliarahmi/)
 
 ---
 
