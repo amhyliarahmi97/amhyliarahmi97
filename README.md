@@ -8,7 +8,7 @@
 ### 🧾 About Me
 
 - 🌱 Currently studying **Information Systems** at Universitas Terbuka  
-- 💡 Passionate about **Data Science**, **Machine Learning**, and **Web Development**  
+- 💡 Passionate about **Data Science** and **Machine Learning**  
 - 💻 Enjoys working on real-world projects to grow my skills  
 - 🌏 Based in Indonesia, always open to remote collaboration  
 - 🎯 Currently exploring **freelance opportunities** on platforms like Upwork  
@@ -20,7 +20,7 @@
 - **Languages**: Python, JavaScript, SQL  
 - **Tools**: Jupyter Notebook, Google Colab, Git, VS Code  
 - **Libraries**: Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib, Seaborn  
-- **Other**: GitHub, Kaggle, Figma, Canva  
+- **Other**: GitHub, Kaggle, Figma
 
 ---
 
